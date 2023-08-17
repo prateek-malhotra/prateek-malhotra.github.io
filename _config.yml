@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Prateek Malhotra"
+  avatar           : "Biography.jpg"
+  bio              : "I'm a Solar Analyst with a PhD in Solar Energy and a passion for Machine Learning. I create data analytics solutions to optimize utility-scale solar plants. I'm committed to driving renewable energy advancements through innovative technology and insights. My research is focused on predicting power conversion efficiency in organic solar cells using machine learning models."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
