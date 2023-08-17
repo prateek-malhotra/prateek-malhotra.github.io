@@ -13,7 +13,7 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Patterns of global change and potential consequences on biodiversity**</span></span>
 
-<p class="aligncenter">
+<p class="alignright">
 <img src="/images/Biography.jpg"
     alt="centered image"
     width="50%" height="50%" alt="A 100x100 image">
