@@ -2,10 +2,6 @@
 title: "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells"
 collection: publications
 permalink: /publication/paper 1
-<img src="/images/Biography.jpg"
-    alt="centered image"
-    width="50%" height="50%" alt="A 100x100 image">
-</p>
 excerpt: 'In this study, I explore the fascinating world of Organic Solar Cells (OSCs) and their Power Conversion Efficiency (PCE) predictions using the Directed Message Passing Neural Network (D-MPNN) - an emerging type of Graph Neural Network. The D-MPNN model showcased remarkable performance in predicting PCE, surpassing the limitations of conventional fixed descriptors. A rigorous comparisons is conducted with fixed descriptors and fingerprints, using the same train and test set. The results clearly demonstrate the superior capabilities of the D-MPNN model in accurately predicting PCE for OSCs.'
 date: 2023-07-25
 venue: 'ACS Applied Materials & Interfaces'
