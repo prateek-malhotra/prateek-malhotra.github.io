@@ -1,4 +1,5 @@
 ---
+<img align="right" src="/images/Biography.jpg" width="200px" style="padding-right: 15px">
 title: "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells"
 collection: publications
 permalink: /publication/paper 1
