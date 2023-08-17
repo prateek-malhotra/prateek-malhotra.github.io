@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Prateek Malhotra"
   avatar           : "Biography.jpg"
-  bio              : "I'm a Solar Analyst with a PhD in Solar Energy and a passion for Machine Learning. I create data analytics solutions to optimize utility-scale solar plants. I'm committed to driving renewable energy advancements through innovative technology and insights. My research is focused on predicting power conversion efficiency in organic solar cells using machine learning models."
-  location         : "Location"
-  employer         :
+  bio              : "Solar Analyst"
+  location         : "Noida, India"
+  employer         : "Futr Energy"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=g-ASg8cAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Prateek-Malhotra-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/prateek-malhotra"
   google_plus      :
   keybase          :
   instagram        :
