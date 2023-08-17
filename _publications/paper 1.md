@@ -1,6 +1,6 @@
 ---
 title: "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells"
-# collection: publications
+collection: publications
 permalink: /publication/paper 1
 tags:
   - cool posts
