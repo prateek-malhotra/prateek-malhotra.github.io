@@ -8,8 +8,5 @@ venue: 'Solar Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0038092X21008136'
 citation: 'Malhotra, Prateek, Subhayan Biswas, Fang-Chung Chen, and Ganesh D. Sharma. "Prediction of non-radiative voltage losses in organic solar cells using machine learning." Solar Energy 228 (2021): 175-186.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://prateek-malhotra.github.io/files/Paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://github.com/prateek-malhotra/prateek-malhotra.github.io/blob/master/files/Paper%201.pdf)
