@@ -13,6 +13,11 @@ author_profile: true
 
 ## <span style="font-variant:small-caps;"><span style="color:#440154">**Patterns of global change and potential consequences on biodiversity**</span></span>
 
+<p class="aligncenter">
+<img src="/images/Biography.jpg"
+    alt="centered image"
+    width="50%" height="50%" alt="A 100x100 image">
+</p>
 
 As the rate and magnitude of the current biodiversity crisis accelerate, a better understanding of the threatening processes impacting biodiversity is needed to develop effective conservation strategies. To address this challenge, I examine, across large spatial scales, biodiversity patterns in the current and future context of global changes by addressing how threats co-occur and interact with diversity, or the potential consequences of threatening processes on different dimensions of biodiversity (i.e. taxonomic, functional, and phylogenetic diversity).
 
