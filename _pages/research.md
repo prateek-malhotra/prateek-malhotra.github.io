@@ -23,7 +23,8 @@ author_profile: true
 **Prateek Malhotra**, Subhayan Biswas, and Ganesh D. Sharma. "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells." ACS Applied Materials & Interfaces (2023).$|$
 [![DDI](https://img.shields.io/badge/DOI-10.1021/acsami.3c08068-21908C.svg)](https://doi.org/10.1021/acsami.3c08068){:target="_blank"}
 [Download paper here](https://github.com/prateek-malhotra/prateek-malhotra.github.io/blob/master/files/DMPNN.pdf)
-[Download paper here1](<iframe src="/files/DMPNN.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>)
+[Download paper here1](https://github.com/prateek-malhotra/prateek-malhotra.github.io/blob/master/files/DMPNN.pdf){:download="Review.pdf"}
+
 
 
 ------
