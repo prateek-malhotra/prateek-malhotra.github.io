@@ -26,6 +26,12 @@ author_profile: true
 
 As the rate and magnitude of the current biodiversity crisis accelerate, a better understanding of the threatening processes impacting biodiversity is needed to develop effective conservation strategies. To address this challenge, I examine, across large spatial scales, biodiversity patterns in the current and future context of global changes by addressing how threats co-occur and interact with diversity, or the potential consequences of threatening processes on different dimensions of biodiversity (i.e. taxonomic, functional, and phylogenetic diversity).
 
+venue: 'ACS Applied Materials & Interfaces'
+paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acsami.3c08068'
+citation: 'Malhotra, Prateek, Subhayan Biswas, and Ganesh D. Sharma. "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells." ACS Applied Materials & Interfaces (2023).'
+
+[Download paper here](https://github.com/prateek-malhotra/prateek-malhotra.github.io/blob/master/files/Paper%202.pdf)
+
 **Selected publications:**  
 Leclerc *et al.* (2022). *Divers. Distrib.* 28 (12): 2754-2764. $|$
 [![DDI](https://img.shields.io/badge/DOI-10.1111/ddi.13441-21908C.svg)](https://doi.org/10.1111/ddi.13441){:target="_blank"}<br>
