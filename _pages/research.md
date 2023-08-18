@@ -11,18 +11,16 @@ author_profile: true
 
 ------
 
-## <span style="font-variant:small-caps;"><span style="color:#440154">**Patterns of global change and potential consequences on biodiversity**</span></span>
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells**</span></span>
 
-<p class="alignright">
-<img src="/images/Biography.jpg"
-    alt="centered image"
-    width="50%" height="50%" alt="A 100x100 image">
-</p>
 
-<img src="/images/Biography.jpg"
+<img src="/images/DMPNN.png"
     width="100"
     hspace="50"
-    align="left"> <span style="color:#3B528B">**Leclerc C.**</span>, Reynaud N., Danis P.-A., ..., Frossard V. & Sentis A. “Temperature, productivity and habitat characteristics collectivelydrive lake food web structure As the rate and magnitude of the current biodiversity crisis accelerate, a better understanding of the threatening processes impacting biodiversity is needed to develop effective conservation strategies. To address this challenge, I examine, across large spatial scales, biodiversity patterns in the current and future context of global changes by addressing how threats co-occur and interact with diversity, or the potential consequences of threatening processes on different dimensions of biodiversity (i.e. taxonomic, functional, and phylogenetic diversity). ”. *SFE² GfÖ EEF Joint meeting – International Conference on Ecological Sciences*, Metz, France. 21-25 November 2022. [![or5](https://img.shields.io/badge/figshare-Presentation_SFE_2022-21908C.svg)](https://doi.org/10.6084/m9.figshare.21931287.v2){:target="_blank"} 
+    align="left"> <span style="color:#3B528B">**Leclerc C.**</span>, Reynaud N., Danis P.-A., ..., Frossard V. & Sentis A. “In this study, I explore the fascinating world of Organic Solar Cells (OSCs) and their Power Conversion Efficiency (PCE) predictions using the Directed Message Passing Neural Network (D-MPNN) - an emerging type of Graph Neural Network. The D-MPNN model showcased remarkable performance in predicting PCE, surpassing the limitations of conventional fixed descriptors. A rigorous comparisons is conducted with fixed descriptors and fingerprints, using the same train and test set. The results clearly demonstrate the superior capabilities of the D-MPNN model in accurately predicting PCE for OSCs.”
+    
+    
+    *SFE² GfÖ EEF Joint meeting – International Conference on Ecological Sciences*, Metz, France. 21-25 November 2022. [![or5](https://img.shields.io/badge/figshare-Presentation_SFE_2022-21908C.svg)](https://doi.org/10.6084/m9.figshare.21931287.v2){:target="_blank"} 
 
 As the rate and magnitude of the current biodiversity crisis accelerate, a better understanding of the threatening processes impacting biodiversity is needed to develop effective conservation strategies. To address this challenge, I examine, across large spatial scales, biodiversity patterns in the current and future context of global changes by addressing how threats co-occur and interact with diversity, or the potential consequences of threatening processes on different dimensions of biodiversity (i.e. taxonomic, functional, and phylogenetic diversity).
 
