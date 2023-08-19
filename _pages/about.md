@@ -8,7 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Solar Analyst with a PhD in Solar Energy and a passion for Machine Learning. I create data analytics solutions to optimize utility-scale solar plants. I'm committed to driving renewable energy advancements through innovative technology and insights. My research is focused on predicting power conversion efficiency in organic solar cells using machine learning models.
+I'm a Solar Analyst at <a href="h[ttps://www6.paca.inrae.fr/recover/](https://www.futr.energy/)" target="_blank" style="color:#3B528B;">INRAE – UMR RECOVER</a> working on SaaS platform, fault detection, ML models and digital twin of utility-scale solar plants.
+
+- 🔭 I’m currently working on **building SaaS platform for utility-scale solar plants**
+
+- 🌱 I’m currently learning **MLOps**
+
+- 👯 I’m looking to collaborate on **ML models for Solar Energy related projects (Utility-scale / Organic Solar Cells))**
+
+- 👨‍💻 All of my projects are available at [prateek-malhotra.github.io](https://prateek-malhotra.github.io/)
+
+- 💬 Ask me about **Solar Energy, Machine Learning**
+
+
+with a PhD in Solar Energy and a passion for Machine Learning. I create data analytics solutions to optimize utility-scale solar plants. I'm committed to driving renewable energy advancements through innovative technology and insights. My research is focused on predicting power conversion efficiency in organic solar cells using machine learning models.
 
 A data-driven personal website
 ======
