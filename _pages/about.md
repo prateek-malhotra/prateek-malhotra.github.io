@@ -24,3 +24,5 @@ redirect_from:
 <i class="fa fa-fw fa-briefcase "></i> Work experience
 
 :briefcase: exp
+
+&#128188; experience
