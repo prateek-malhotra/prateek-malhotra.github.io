@@ -21,10 +21,5 @@ redirect_from:
 - 💬 **Ask me about Solar Energy, Machine Learning.** 
 
 
-<i class="fa fa-fw fa-briefcase "></i> Work experience
-
-:briefcase: exp
-
-&#128188; experience
-
-# &#128188; experience
+# &#128188; Work Experience
+# &#128188 ljfdls
