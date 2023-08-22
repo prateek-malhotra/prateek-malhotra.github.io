@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "RESEARCH INTERESTS"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
