@@ -34,8 +34,7 @@ redirect_from:
 
 # 📄 Publications
 
-- <p style="text-align: justify;"><strong>Prateek Malhotra</strong>, Subhayan Biswas, and Ganesh D. Sharma. "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells." ACS Applied Materials & Interfaces (2023).$|$</p>
-[![DDI](https://img.shields.io/badge/DOI-10.1021/acsami.3c08068-21908C.svg)](https://doi.org/10.1021/acsami.3c08068){:target="_blank"} [PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/Review.pdf)
+- <p style="text-align: justify;"><strong>Prateek Malhotra</strong>, Subhayan Biswas, and Ganesh D. Sharma. "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells." ACS Applied Materials & Interfaces (2023).$|$</p> [![DDI](https://img.shields.io/badge/DOI-10.1021/acsami.3c08068-21908C.svg)](https://doi.org/10.1021/acsami.3c08068){:target="_blank"} [PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/Review.pdf)
 
 - <p style="text-align: justify;"><strong>Prateek Malhotra</strong>, Juan C. Verduzco, Subhayan Biswas, and Ganesh D. Sharma. "Active Discovery of Donor: Acceptor Combinations For Efficient Organic Solar Cells." ACS Applied Materials & Interfaces 14, no. 49 (2022): 54895-54906.$|$
 [![DDI](https://img.shields.io/badge/DOI-10.1021/acsami.2c18540-21908C.svg)](https://doi.org/10.1021/acsami.2c18540){:target="_blank"}
