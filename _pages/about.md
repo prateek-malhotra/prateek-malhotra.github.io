@@ -30,7 +30,7 @@ redirect_from:
 
 **👨‍🎓 Senior Research Fellow (SRF), Pursuing PhD @ LNMIIT** (Feb 2018 - June 2022)
 - <p style="text-align: justify;"><strong>Prediction of photovoltaic properties in Organic Solar Cells:</strong> Machine Learning, Deep Learning, and Active Learning models to predict photovoltaic parameters in Organic Solar Cells and drawing meaningful insights.</p>
-- <p style="text-align: justify;"><strong>Organic Solar Cell Fabrication and characterization:</strong> Organic solar cell fabrication. Characterization using Keithley-2450 SourceMeter, UV-Vis Spectrophotometer, Spectrofluorometer, Cyclic Voltammetry(CV), External Quantum Efficiency(for calculation of Integrated Jsc and Voltage Loss Analysis).</p>
+- <p style="text-align: justify;"><strong>Organic Solar Cell Fabrication and characterization:</strong> Organic solar cell fabrication. Characterization using Keithley-2450 SourceMeter, UV-Vis Spectrophotometer, Spectrofluorometer, Cyclic Voltammetry(CV), External Quantum Efficiency(for calculation of Integrated Jsc and Voltage Loss Analysis).</p><br>
 
 
 # 📄 Publications
@@ -49,7 +49,7 @@ redirect_from:
 
 - **Prateek Malhotra**, Subhayan Biswas, Fang-Chung Chen, and Ganesh D. Sharma. "Prediction of non-radiative voltage losses in organic solar cells using machine learning." Solar Energy 228 (2021): 175-186.$|$
 [![DDI](https://img.shields.io/badge/DOI-10.1016/j.solener.2021.09.056-21908C.svg)](https://doi.org/10.1016/j.solener.2021.09.056){:target="_blank"}
-[PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/non_radiative.pdf)
+[PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/non_radiative.pdf)<br>
 
 
 # 💻 Web Applications
@@ -57,10 +57,11 @@ redirect_from:
 - “Calculating Jsc from EQE” This application calculates Jsc(Short Circuit Current Density) from EQE(External
 Quantum Efficiency) curve. [Link](https://jscfromeqe.streamlit.app/)
 
-- “Calculating solar cell parameters from IV curve” This application calculates all solar cell parameters: Jsc,Voc, FF, Pm, Rs, Rsh, and PCE.https://solariv.streamlit.app/
+- “Calculating solar cell parameters from IV curve” This application calculates all solar cell parameters: Jsc,Voc, FF, Pm, Rs, Rsh, and PCE. [Link](https://jscfromeqe.streamlit.app/IV-Parameters)
 
-- “Solar DC Pump Design” This application designs Solar DC Pump system using water drawn/day, elevation and
-peak sunshine hours as input. https://solar-dc-pump.streamlit.app/
+- "Calculating rooftop plant capacity from user defined load" This app takes input as load (multiple equipments), their corresponding quantity and operational hours. [Link](https://jscfromeqe.streamlit.app/Solar_Plant_Design_Calculator)
+
+- “Solar DC Pump Design” This application designs Solar DC Pump system using water drawn/day, variables 'elevation' and 'peak sunshine hours' as input. [Link](https://jscfromeqe.streamlit.app/Solar_Pump_designing)
 
 
 
