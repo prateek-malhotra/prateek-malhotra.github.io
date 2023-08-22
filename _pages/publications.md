@@ -1,7 +1,7 @@
 ---
 layout: archive
 # title: "RESEARCH INTERESTS"
-permalink: /research/
+permalink: /publications/
 author_profile: true
 ---
 <style> .aligncenter {text-align: center;} </style>
