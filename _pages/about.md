@@ -37,6 +37,8 @@ redirect_from:
 
 - <p style="text-align: justify;"><strong>Prateek Malhotra</strong>, Subhayan Biswas, and Ganesh D. Sharma. "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells." ACS Applied Materials & Interfaces (2023).$|$</p> [![DDI](https://img.shields.io/badge/DOI-10.1021/acsami.3c08068-21908C.svg)](https://doi.org/10.1021/acsami.3c08068){:target="_blank"} [PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/Review.pdf)
 
+- <p style="text-align: justify;"><strong>Prateek Malhotra</strong>, Subhayan Biswas, and Ganesh D. Sharma. "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells." ACS Applied Materials & Interfaces (2023).$|$ [![DDI](https://img.shields.io/badge/DOI-10.1021/acsami.3c08068-21908C.svg)](https://doi.org/10.1021/acsami.3c08068){:target="_blank"} [PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/Review.pdf) </p>
+
 - **Prateek Malhotra**, Subhayan Biswas, and Ganesh D. Sharma. "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells." ACS Applied Materials & Interfaces (2023).$|$
 [![DDI](https://img.shields.io/badge/DOI-10.1021/acsami.3c08068-21908C.svg)](https://doi.org/10.1021/acsami.3c08068){:target="_blank"}
 [PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/Review.pdf)
@@ -57,3 +59,4 @@ redirect_from:
 # 💻 Web Applications
 
 # 🔧 Skills
+• Languages: Python &emsp; • Softwares: PVsyst, HelioScope, Homer Pro &emsp; • Machine Learning, Data Science, Web Application, GitHub, MLOps
