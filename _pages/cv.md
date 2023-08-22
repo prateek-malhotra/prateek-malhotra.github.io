@@ -9,4 +9,4 @@ redirect_from:
 
 ------
 
-<iframe src="/files/pdf/Prateek_malhotra_CV.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/pdf/Prateek_Malhotra_CV.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
