@@ -55,7 +55,7 @@ redirect_from:
 
 # 💻 Web Applications
 
--- **Calculating Jsc from EQE** This application calculates Jsc(Short Circuit Current Density) from EQE(External
+- **Calculating Jsc from EQE** This application calculates Jsc(Short Circuit Current Density) from EQE(External
 Quantum Efficiency) curve. [Link](https://jscfromeqe.streamlit.app/)
 
 - **Calculating solar cell parameters from IV curve** This application calculates all solar cell parameters: Jsc,Voc, FF, Pm, Rs, Rsh, and PCE. [Link](https://jscfromeqe.streamlit.app/IV-Parameters)
