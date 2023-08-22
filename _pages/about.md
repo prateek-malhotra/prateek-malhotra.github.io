@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-- 🔭 **I'm a Solar Analyst at <a href="https://www.futr.energy/" target="_blank" style="color:#3B528B;">Futr Energy</a> working on SaaS platform, fault detection, ML models and digital twin of utility-scale solar plants.**
+<p style="text-align: justify;">- 🔭 **I'm a Solar Analyst at <a href="https://www.futr.energy/" target="_blank" style="color:#3B528B;">Futr Energy</a> working on SaaS platform, fault detection, ML models and digital twin of utility-scale solar plants.**</p>
 
-- 👨‍🔬 **My PhD research is investigating structure-property relationships of organic semiconductors and predicting power conversion efficiency of organic solar cells.**
+<p style="text-align: justify;">- 👨‍🔬 **My PhD research is investigating structure-property relationships of organic semiconductors and predicting power conversion efficiency of organic solar cells.**</p>
 
-- 🌱 **I’m currently learning MLOps.**
+<p style="text-align: justify;">- 🌱 **I’m currently learning MLOps.**</p>
 
-- 👯 **I’m looking to collaborate on ML models for Solar Energy related projects (Utility-scale / Organic Solar Cells)**
+<p style="text-align: justify;">- 👯 **I’m looking to collaborate on ML models for Solar Energy related projects (Utility-scale / Organic Solar Cells)**</p>
 
-- 💬 **Ask me about Solar Energy, Machine Learning.** 
+<p style="text-align: justify;">- 💬 **Ask me about Solar Energy, Machine Learning.** </p>
 
 
 # 💼 Work Experience
