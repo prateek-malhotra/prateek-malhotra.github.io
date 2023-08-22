@@ -35,29 +35,36 @@ redirect_from:
 
 # 📄 Publications
 
-- <p style="text-align: justify;"><strong>Prateek Malhotra</strong>, Subhayan Biswas, and Ganesh D. Sharma. "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells." ACS Applied Materials & Interfaces (2023).$|$</p> [![DDI](https://img.shields.io/badge/DOI-10.1021/acsami.3c08068-21908C.svg)](https://doi.org/10.1021/acsami.3c08068){:target="_blank"} [PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/Review.pdf)
-
-- <p style="text-align: justify; margin: 0;"><strong>Prateek Malhotra</strong>, Subhayan Biswas, and Ganesh D. Sharma. "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells." ACS Applied Materials & Interfaces (2023). [![DDI](https://img.shields.io/badge/DOI-10.1021/acsami.3c08068-21908C.svg)](https://doi.org/10.1021/acsami.3c08068){:target="_blank"} [PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/Review.pdf)</p>
-
-
 - **Prateek Malhotra**, Subhayan Biswas, and Ganesh D. Sharma. "Directed Message Passing Neural Network for Predicting Power Conversion Efficiency in Organic Solar Cells." ACS Applied Materials & Interfaces (2023).$|$
 [![DDI](https://img.shields.io/badge/DOI-10.1021/acsami.3c08068-21908C.svg)](https://doi.org/10.1021/acsami.3c08068){:target="_blank"}
 [PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/Review.pdf)
 
-- <p style="text-align: justify;"><strong>Prateek Malhotra</strong>, Juan C. Verduzco, Subhayan Biswas, and Ganesh D. Sharma. "Active Discovery of Donor: Acceptor Combinations For Efficient Organic Solar Cells." ACS Applied Materials & Interfaces 14, no. 49 (2022): 54895-54906.$|$</p>
+- **Prateek Malhotra**, Juan C. Verduzco, Subhayan Biswas, and Ganesh D. Sharma. "Active Discovery of Donor: Acceptor Combinations For Efficient Organic Solar Cells." ACS Applied Materials & Interfaces 14, no. 49 (2022): 54895-54906.$|$
 [![DDI](https://img.shields.io/badge/DOI-10.1021/acsami.2c18540-21908C.svg)](https://doi.org/10.1021/acsami.2c18540){:target="_blank"}
 [PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/Active_learning.pdf)
 
-- <p style="text-align: justify;"><strong>Prateek Malhotra, Kanupriya Khandelwal, Subhayan Biswas, Fang-Chung Chen, and Ganesh D. Sharma. "Opportunities and challenges for machine learning to select combination of donor and acceptor materials for efficient organic solar cells." Journal of Materials Chemistry C 10, no. 47 (2022): 17781-17811.$|$</p>
+- **Prateek Malhotra**, Kanupriya Khandelwal, Subhayan Biswas, Fang-Chung Chen, and Ganesh D. Sharma. "Opportunities and challenges for machine learning to select combination of donor and acceptor materials for efficient organic solar cells." Journal of Materials Chemistry C 10, no. 47 (2022): 17781-17811.$|$
 [![DDI](https://img.shields.io/badge/DOI-10.1039/D2TC03276G-21908C.svg)](https://doi.org/10.1039/D2TC03276G){:target="_blank"}
 [PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/Review.pdf)
 
-- <p style="text-align: justify;"><strong>Prateek Malhotra</strong>, Subhayan Biswas, Fang-Chung Chen, and Ganesh D. Sharma. "Prediction of non-radiative voltage losses in organic solar cells using machine learning." Solar Energy 228 (2021): 175-186.$|$</p>
+- **Prateek Malhotra**, Subhayan Biswas, Fang-Chung Chen, and Ganesh D. Sharma. "Prediction of non-radiative voltage losses in organic solar cells using machine learning." Solar Energy 228 (2021): 175-186.$|$
 [![DDI](https://img.shields.io/badge/DOI-10.1016/j.solener.2021.09.056-21908C.svg)](https://doi.org/10.1016/j.solener.2021.09.056){:target="_blank"}
 [PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/non_radiative.pdf)
 
 
 # 💻 Web Applications
 
+- “Calculating Jsc from EQE” This application calculates Jsc(Short Circuit Current Density) from EQE(External
+Quantum Efficiency) curve. [Link](https://jscfromeqe.streamlit.app/)
+
+- “Calculating solar cell parameters from IV curve” This application calculates all solar cell parameters: Jsc,Voc, FF, Pm, Rs, Rsh, and PCE.https://solariv.streamlit.app/
+
+- “Solar DC Pump Design” This application designs Solar DC Pump system using water drawn/day, elevation and
+peak sunshine hours as input. https://solar-dc-pump.streamlit.app/
+
+
+
 # 🔧 Skills
-• Languages: Python &emsp; • Softwares: PVsyst, HelioScope, Homer Pro &emsp; • Machine Learning, Data Science, Web Application, GitHub, MLOps
+- **Languages:** Python 
+- **Softwares:** PVsyst, HelioScope, Homer Pro
+- Machine Learning&nbsp;&nbsp;&nbsp;Data Science,&nbsp;&nbsp;&nbsp;Web Application,&nbsp;&nbsp;&nbsp;GitHub,&nbsp;&nbsp;&nbsp;MLOps
