@@ -49,12 +49,13 @@ redirect_from:
 
 - **Prateek Malhotra**, Subhayan Biswas, Fang-Chung Chen, and Ganesh D. Sharma. "Prediction of non-radiative voltage losses in organic solar cells using machine learning." Solar Energy 228 (2021): 175-186.$|$
 [![DDI](https://img.shields.io/badge/DOI-10.1016/j.solener.2021.09.056-21908C.svg)](https://doi.org/10.1016/j.solener.2021.09.056){:target="_blank"}
-[PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/non_radiative.pdf)<br>
+[PDF](https://github.com/prateek-malhotra/prateek-malhotra.github.io/raw/master/files/non_radiative.pdf)
+<br>
 
 
 # 💻 Web Applications
 
-- **Calculating Jsc from EQE** This application calculates Jsc(Short Circuit Current Density) from EQE(External
+-- **Calculating Jsc from EQE** This application calculates Jsc(Short Circuit Current Density) from EQE(External
 Quantum Efficiency) curve. [Link](https://jscfromeqe.streamlit.app/)
 
 - **Calculating solar cell parameters from IV curve** This application calculates all solar cell parameters: Jsc,Voc, FF, Pm, Rs, Rsh, and PCE. [Link](https://jscfromeqe.streamlit.app/IV-Parameters)
@@ -62,7 +63,7 @@ Quantum Efficiency) curve. [Link](https://jscfromeqe.streamlit.app/)
 - **Calculating rooftop plant capacity** This app takes input as load (multiple equipments), their corresponding quantity and operational hours. [Link](https://jscfromeqe.streamlit.app/Solar_Plant_Design_Calculator)
 
 - **Solar DC Pump Design** This application designs Solar DC Pump system using water drawn/day, variables 'elevation' and 'peak sunshine hours' as input. [Link](https://jscfromeqe.streamlit.app/Solar_Pump_designing)
-
+<br>
 
 
 # 🔧 Skills
