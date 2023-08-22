@@ -54,18 +54,19 @@ redirect_from:
 
 # 💻 Web Applications
 
-- “Calculating Jsc from EQE” This application calculates Jsc(Short Circuit Current Density) from EQE(External
+- **Calculating Jsc from EQE** This application calculates Jsc(Short Circuit Current Density) from EQE(External
 Quantum Efficiency) curve. [Link](https://jscfromeqe.streamlit.app/)
 
-- “Calculating solar cell parameters from IV curve” This application calculates all solar cell parameters: Jsc,Voc, FF, Pm, Rs, Rsh, and PCE. [Link](https://jscfromeqe.streamlit.app/IV-Parameters)
+- **Calculating solar cell parameters from IV curve** This application calculates all solar cell parameters: Jsc,Voc, FF, Pm, Rs, Rsh, and PCE. [Link](https://jscfromeqe.streamlit.app/IV-Parameters)
 
-- "Calculating rooftop plant capacity from user defined load" This app takes input as load (multiple equipments), their corresponding quantity and operational hours. [Link](https://jscfromeqe.streamlit.app/Solar_Plant_Design_Calculator)
+- **Calculating rooftop plant capacity** This app takes input as load (multiple equipments), their corresponding quantity and operational hours. [Link](https://jscfromeqe.streamlit.app/Solar_Plant_Design_Calculator)
 
-- “Solar DC Pump Design” This application designs Solar DC Pump system using water drawn/day, variables 'elevation' and 'peak sunshine hours' as input. [Link](https://jscfromeqe.streamlit.app/Solar_Pump_designing)
+- **Solar DC Pump Design** This application designs Solar DC Pump system using water drawn/day, variables 'elevation' and 'peak sunshine hours' as input. [Link](https://jscfromeqe.streamlit.app/Solar_Pump_designing)
 
 
 
 # 🔧 Skills
 - **Languages:** Python 
 - **Softwares:** PVsyst, HelioScope, Homer Pro
-- Machine Learning&nbsp;&nbsp;&nbsp;Data Science,&nbsp;&nbsp;&nbsp;Web Application,&nbsp;&nbsp;&nbsp;GitHub,&nbsp;&nbsp;&nbsp;MLOps
+- Machine Learning   • Data Science,   • Web Application,   • GitHub,   • MLOps
+
