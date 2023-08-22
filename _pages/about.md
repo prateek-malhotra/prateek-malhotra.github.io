@@ -17,7 +17,7 @@ redirect_from:
 
 - <p style="text-align: justify;"> 👯 <strong>I’m looking to collaborate on ML models for Solar Energy related projects (Utility-scale / Organic Solar Cells)</strong></p>
 
-- <p style="text-align: justify;"> 💬 <strong>Ask me about Solar Energy, Machine Learning.</strong> </p>
+- <p style="text-align: justify;"> 💬 <strong>Ask me about Solar Energy, Machine Learning.</strong> </p><br>
 
 
 # 💼 Work Experience
