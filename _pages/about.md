@@ -71,5 +71,5 @@ Quantum Efficiency) curve. [Link](https://jscfromeqe.streamlit.app/)
 # 🔧 Skills
 - **Languages:** Python 
 - **Softwares:** PVsyst, HelioScope, Homer Pro
-- Machine Learning &nbsp;&nbsp;&nbsp; • Data Science &nbsp;&nbsp;&nbsp; • Web Applicationd &nbsp;&nbsp;&nbsp; • GitHub &nbsp;&nbsp;&nbsp; • MLOps
+- Machine Learning &nbsp;&nbsp;&nbsp; • Data Science &nbsp;&nbsp;&nbsp; • Web Application &nbsp;&nbsp;&nbsp; • GitHub &nbsp;&nbsp;&nbsp; • MLOps
 
