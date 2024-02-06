@@ -22,7 +22,7 @@ redirect_from:
 
 
 # 💼 Work Experience
-**👨‍💻 Solar Analyst @ Futr Energy** (June 2022 - Present)
+**👨‍💻 Solar Analyst @ Futr Energy** (June 2022 - November 2023)
 - <p style="text-align: justify;"><strong>Solar plant MPPT/SMB/String level fault detection and revenue loss calculation pipeline:</strong> Plant generation is examined on MPPT/SMB/String level to find anomaly type, downtime, and revenue loss due to individual anomaly.</p>
 - <p style="text-align: justify;"><strong>Solar plant monitoring parameters calculation for dashboard and data analytics:</strong> All photovoltaic parameters required for solar plant monitoring, maintenance, and troubleshooting. Creating new interactive yearly graphs for individual inverters and complete plant generation.</p>
 - <p style="text-align: justify;"><strong>Fault detection using thermal images (infrared images):</strong> YOLOV7 model is created to detect various solar panel faults using infrared images (thermal images) of solar plant captured using drone</p>
